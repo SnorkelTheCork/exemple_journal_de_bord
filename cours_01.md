@@ -1,17 +1,17 @@
 # Cours 1
 ## Créer mon journal de bord
-[Ce tutoriel](https://guides.github.com/activities/hello-world/) vous aidera à bien comprendre les bases de GitHub, n'hésitez pas à le consulter!
-Vous ne vous rappelez plus comment créer le journal ou le modifier? [Ce tutoriel](https://youtu.be/lX3bpuLK_Sg) vous aide! 
+
+
 
 ## Pourquoi j'ai choisi l'intégration multimédia 
-J'ai choisi le cours de <<Domaines du multimédia>> parce que je voulais entrer dans le programme de Technique d'Intégration Multimédia, mais j'ai été refusé, alors je 
+* J'ai choisi le cours de <<Domaines du multimédia>> parce que je voulais entrer dans le programme de Technique d'Intégration Multimédia, mais j'ai été refusé, alors je 
 me suis inscrit dans ce cours pour être capable d'avoir plus de connaisances sur un programme que j'ai envi à faire. Je dirai que tous les cours de Technique 
-d'Intégration Multimédia car 
+d'Intégration Multimédia m'inéressent parce que je ne suis pas vraiment sur de ce que je veux faire plutôt dans la vie, donc ceci est ma chance de me familiariser avec  
+les différents cours et les différents choix d'emploi que je pourrais faire avec ce que je vais apprendre dans le cours de <<Domaines du Multimédia>> **ou** savoir si le 
+multimédia est vraiment pour moi. 😤
+ 
 
 
-Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous a fait choisir ce programme. Quel cours vous motive en particulier? Est-ce que vous avez déjà en tête un métier que vous aimeriez faire grâce à la formation? Insérez dans votre texte un mot en gras, un emoji et une liste à point. 
-
-[Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
 
 
