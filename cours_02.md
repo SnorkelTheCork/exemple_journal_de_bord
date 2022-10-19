@@ -6,18 +6,18 @@ Exemple:
 ### [Bulle](https://www.onf.ca/interactif/bulle/) 
 L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
-### [Fortiche] 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Fortiche]( https://www.forticheprod.com/)
+La raison pour laquelle j'ai décidé de choissir *Fortiche* est parce que ils sont capables des mélanger des effets 2d et 3d pour créer des animations superbes, une forme d'animation qui n'est pas vraiment utilisé. 
 
-### Lien 2 
-Expliquer pourquoi vous avez choisi ce lien.
+### [FromSoftware](https://www.fromsoftware.jp/ww/index.html) 
+La raison pour laquelle j'ai décidé de choissir l'entreprise *FromSoftware* est parce que ils ont révolutionné le monde des jeux vidéos avec les types de jeux qu'ils ont produit. 
 
-### Lien 3 
-Expliquer pourquoi vous avez choisi ce lien.  
+### [Santa Monica Studio](https://sms.playstation.com/)
+La raison pour laquelle j'ai décidé de choissir *Santa Monica Studio* est parce qu'ils ont pu améliorer le gameplay, les graphismes et le design de la série des God Of War en 20 ans.
 
-### Lien 4 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Square Enix](https://www.square-enix-games.com/fr_FR/home)
+La raison pour laquelle j'ai décidé de choissir l'entreprise *Square Enix* est parce qu'ils ont développés des jeux vidéos qui ont des histoires complex et qui évoque plusieurs émotions dans les destinateurs.
 
-### Lien 5 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Ubisoft](https://www.ubisoft.com/fr-ca/) 
+La raison pour laquelle j'ai décidé de choissir l'entreprise *Ubisoft* ils créer des jeux de très haute qualités et qui sont vraiment anticipé par leurs consommateurs. Ils m'intéressent parce que leurs jeux vidéos ont fait parie de mon enfance.
 
